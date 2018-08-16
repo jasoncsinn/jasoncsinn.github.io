@@ -9,6 +9,7 @@
 - [Documentation: Saga, compensate for failures in a terse and composable way](http://vectos.net/posts/2018-08-10-saga.html)
 - [Article: Decision Engine, part 2: Cluster as a source of truth](https://medium.com/azimolabs/decision-engine-part-ii-clusters-as-a-source-of-truth-bd547e0b43a6)
 - [Discussion: Continuous Delivery Implemented with Event Sourcing at eBay](https://www.reddit.com/r/scala/comments/962gcz/continuous_delivery_implemented_with_event/)
+- [Book: Applied Akka Patterns](https://www.safaribooksonline.com/library/view/applied-akka-patterns/9781491934876/)
 
 ## July 2018
 - [Article: Scalaz 8 IO vs. Akka (typed) vs. Monix Part 1](https://blog.softwaremill.com/scalaz-8-io-vs-akka-typed-actors-vs-monix-part-1-5672657169e1)
