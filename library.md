@@ -1,3 +1,47 @@
+## Tags
+Sorry, you will have to use CTRL+F for now.. haven't bothered to set up filtering yet.
+- Wiki
+- Documentation
+- Article
+- Discussion
+- Video
+- Paper
+- SO
+- Book
+- Reference
+- Presentation
+- Diagram
+
+## September 2018
+- [Wiki: CIDR](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
+- [Documentation: VPC Peering](https://docs.aws.amazon.com/vpc/latest/peering/vpc-peering-basics.html)
+- [Article: Go compilation](https://getstream.io/blog/how-a-go-program-compiles-down-to-machine-code/)
+- [Wiki: CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- [Discussion: Representing enums in Scala](https://www.reddit.com/r/scala/comments/9hsgb4/sealed_trait_with_case_classes_and_objects)
+- [Article: Scala programming - A skeptic's journey](https://www.skedulo.com/tech-blog/technology-scala-programming/)
+- [Article: A plea for lean software](https://www.reddit.com/r/programming/comments/9ce1gs/a_plea_for_lean_software_6_lessons_i_learned_to/e5aevc2)
+- [Documentation: Prepared statement does not exist, PGSQL Bug](https://github.com/pgjdbc/pgjdbc/pull/449)
+- [Article: Exploring stateful streaming with spark](http://asyncified.io/2016/07/31/exploring-stateful-streaming-with-apache-spark/)
+- [Video: Dgraph - A distributed graph database](https://www.youtube.com/watch?v=cHXbYLNa0qQ)
+- [Video: Time series database lectures - TimescaleDB](https://www.youtube.com/watch?v=IaZ4hJ3G7wc)
+- [Documentation: Timescale vs. Postgres performance](https://github.com/timescale/timescaledb/issues/169)
+- [Article: MySQL makes toast](https://www.percona.com/blog/2016/04/01/fixing-mysql-bug2-now-mysql-makes-toast/)
+- [Documentation: Postgres physical storage - TOAST](https://www.postgresql.org/docs/10/static/storage-toast.html)
+- [Article: Living without atomic clocks - CockroachDB](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
+- [Paper: Google Spanner](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [Reference: Atomix](https://atomix.io/docs/latest/user-manual/introduction/what-is-atomix/)
+- [Reference: Rapidoid](https://www.rapidoid.org/docs.html)
+- [Reference: Skiplang](http://www.skiplang.com/)
+- [Book: OS Tutorial](https://github.com/cfenollosa/os-tutorial)
+- [Reference: Voldemort](https://github.com/voldemort/voldemort)
+- [Reference: BadgerDB](https://github.com/dgraph-io/badger)
+- [Reference: etcd ](https://github.com/etcd-io/etcd)
+- [Book: Systems design primer](https://github.com/donnemartin/system-design-primer)
+- [Reference: Tools of the Trade (Compilation of useful resources)](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Reference: ScalaCache - Cache facade for scala](https://github.com/cb372/scalacache)
+- [Reference: Agrona - High performance data structures and utilities](https://github.com/real-logic/agrona)
+- [Reference: React patterns](https://github.com/chantastic/reactpatterns)
+
 ## August 2018
 - [Article: Action Composition - Play](https://enear.github.io/2018/07/30/Play-Framework-in-Scala-Action-Composition/)
 - [Article: Kinds of types in Scala, part 1](https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/)
