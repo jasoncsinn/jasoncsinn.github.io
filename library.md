@@ -1,5 +1,5 @@
 ## Tags
-Sorry, you will have to use CTRL+F for now.. haven't bothered to set up filtering yet.
+Sorry, you will have to use CTRL+F for now.. haven't bothered to set up something proper yet.
 - Wiki
 - Documentation
 - Article
@@ -11,6 +11,43 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up filterin
 - Reference
 - Presentation
 - Diagram
+
+## October 2018
+- [Paper: Dremel: Interactive Analysis of Web-Scale Datasets](https://ai.google/research/pubs/pub36632)
+- [Article: Striping and Assembly algorithms from Dremel](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
+- [Article: What does Stack Overflow want to be when it grows up?](https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/)
+- [Article: Don't make squirrel burgers](http://leewaterman.com/dont-make-squirrel-burgers/?fbclid=IwAR0k5iEMCsS9y7fZmZH2asIOiWoorPc8hDfpRMCOLdF4voh6vKYem2gx3yY)
+- [Article: Demystifying the regex that checks if a number is prime](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/)
+- [Reference: Fluentd](https://www.fluentd.org/)
+- [Article: RXJava by Example](https://www.infoq.com/articles/rxjava-by-example)
+- [Reference: NXLog](https://nxlog.co/products/nxlog-community-edition)
+- [Article: Reactor by Example](https://www.infoq.com/articles/reactor-by-example)
+- [Documentation: Epoll](https://en.wikipedia.org/wiki/Epoll)
+- [Article: Concepts, the next major change coming to C++](https://inversepalindrome.com/blog/2018/9/26/concepts)
+- [Documentation: Vert.x](https://vertx.io/docs/)
+- [Article: Haskell's kind system, a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+- [Documentation: Chaos Monkey GUide for Engineers - Tips, Tutorials, Training](https://www.gremlin.com/chaos-monkey)
+- [Article: Easing into cats, and the case for category theory inspired Abstractions](http://www.geekabyte.io/2018/09/easing-into-cats-and-case-for-category.html)
+- [Discussion: Real world Akka Architecture and Examples](https://www.reddit.com/r/scala/comments/9mao3l/realworld_akka_architecture_and_examples/)
+- [Reference: Scala with explicit nulls](https://github.com/abeln/dotty/wiki/scala-with-explicit-nulls)
+- [Article: Disambiguating 'this' in scala, or what does 'self =>' mean?](http://enear.github.io/2018/10/08/self-arrow/)
+- [Article: Dockerizing Akka http](https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa)
+- [Discussion: Machine learning on time series data](https://www.reddit.com/r/MachineLearning/comments/9ofd7x/d_machine_learning_on_time_series_data/e7tws0l)
+- [Reference: PG11 Release notes](https://pgdash.io/blog/postgres-11-whats-new.html?p)
+- [Paper: An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
+- [Reference: Google Architecture](http://highscalability.com/google-architecture)
+- [Article: Pagination in postgres, from basic to exotic](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
+- [Reference: The anatomy of a large scale hypertextual web search engine](http://infolab.stanford.edu/~backrub/google.html)
+- [SO: Optimizing groupBy](https://stackoverflow.com/questions/25536422/optimize-group-by-query-to-retrieve-latest-record-per-user)
+- [Article: Postgres CTEs are optimization fences](https://blog.2ndquadrant.com/postgresql-ctes-are-optimization-fences/)
+- [Reference: Setting up Nginx load balancing](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-load-balancing)
+- [Video: Code written for performance](https://frontendmasters.com/courses/good-parts-javascript-web/code-written-for-performance/)
+- [Reference: Functional programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [Article: Avoiding cache stampede at doordash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
+- [Article: Enhancing the Netflix UI Experience with HDR](https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8)
+- [Article: Upgrading github from Rails 3.2 to 5.2](https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/)
+- [Reference: SEDAR/EDGAR Fillings](http://phx.corporate-ir.net/phoenix.zhtml?c=91790&p=irol-sec_pf&control_selectgroup=3,4,5)
+- [Reference: Investor Relations](https://en.wikipedia.org/wiki/Investor_relations)
 
 ## September 2018
 - [Wiki: CIDR](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
