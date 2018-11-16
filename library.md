@@ -12,6 +12,21 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - Presentation
 - Diagram
 
+## November 2018
+- [Reference: Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank)
+- [Reference: Linux performance analysis in 60 seconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+- [Article: Tuning tomcat for a high throughput, fail fast system](https://medium.com/netflix-techblog/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f)
+- [Article: Book Review: A philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html?m=1)
+- [Article: Scala compiler phases](https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/)
+- [Article: SQL Pivot - Converting rows to columns](https://databricks.com/blog/2018/11/01/sql-pivot-converting-rows-to-columns.html)
+- [Article: Actor system - Spider Pattern](http://letitcrash.com/post/30585282971/discovering-message-flows-in-actor-systems-with)
+- [Article: Finch performance lessons](https://kostyukov.net/posts/finch-performance-lessons/)
+- [Article: Efficient development with Docker and docker-compose](https://medium.com/@Empanado/efficient-development-with-docker-and-docker-compose-e354b4d24831)
+- [Article: A quick dive into Python's "__slots__"](https://medium.com/@stephenjayakar/a-quick-dive-into-pythons-slots-72cdc2d334e)
+- [Reference: QUIC](https://en.wikipedia.org/wiki/QUIC)
+- [Video: keynote Java in 2018: Change is the only Constant](https://youtu.be/wHoRBvt3U6o)
+- [Reference: C++ Build process](https://github.com/green7ea/cpp-compilation/blob/master/README.md)
+
 ## October 2018
 - [Paper: Dremel: Interactive Analysis of Web-Scale Datasets](https://ai.google/research/pubs/pub36632)
 - [Article: Striping and Assembly algorithms from Dremel](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
