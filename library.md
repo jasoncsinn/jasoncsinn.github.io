@@ -12,6 +12,14 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - Presentation
 - Diagram
 
+## December 2018
+- [Article: Close encounters in Java Memory Model](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
+- [Article: Debugging a Non Reproducible Crash](https://blog.bam.tech/developper-news/debugging-a-non-reproducible-crash)
+- [Reference: Next - Modern Web Browser Specification](https://next.atlas.engineer/article/technical-design.org)
+- [Article: Uncertainty propagation in data processing systems](https://blog.acolyer.org/2018/11/23/uncertainty-propagation-in-data-processing-systems/)
+- [Article: Kubernetes' first major security hole discovered](https://www.zdnet.com/article/kubernetes-first-major-security-hole-discovered/)
+- [Article: The Knight's Dialer](https://medium.com/@alexgolec/google-interview-questions-deconstructed-the-knights-dialer-impossibly-fast-edition-c288da1685b8)
+
 ## November 2018
 - [Reference: Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank)
 - [Reference: Linux performance analysis in 60 seconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
@@ -26,6 +34,13 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Reference: QUIC](https://en.wikipedia.org/wiki/QUIC)
 - [Video: keynote Java in 2018: Change is the only Constant](https://youtu.be/wHoRBvt3U6o)
 - [Reference: C++ Build process](https://github.com/green7ea/cpp-compilation/blob/master/README.md)
+- [Article: Why do distributed consistentcy models and weak memory models look so similar?](http://composition.al/CMPS290S-2018-09/2018/11/17/time-is-partial-or-why-do-distributed-consistency-models-and-weak-memory-models-look-so-similar-anyway.html)
+- [Reference: Some notes about HTTP/3](https://blog.erratasec.com/2018/11/some-notes-about-http3.html?m=1)
+- [Article: How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+- [Article: The simple magic of Consistent Hashing](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
+- [Article: Why 'Agile' is terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
+- [Discussion: What's the largest amount of bad code you have ever seen work?](https://www.reddit.com/r/programming/comments/9x096s/an_insane_answer_to_whats_the_largest_amount_of/)
+
 
 ## October 2018
 - [Paper: Dremel: Interactive Analysis of Web-Scale Datasets](https://ai.google/research/pubs/pub36632)
