@@ -12,6 +12,41 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - Presentation
 - Diagram
 
+## April 2019
+- [Reference: Raft](https://raft.github.io/raft.pdf)
+- [Documentation: HDFS Design](https://hadoop.apache.org/docs/current1/hdfs_design.html)
+- [Documentation: Mapreduce concepts](https://docs.marklogic.com/guide/mapreduce/hadoop)
+- [Article: Future of java](https://www.techrepublic.com/article/future-of-java-programming-language-three-major-projects-on-the-horizon/)
+- [Article: BERT Pretraining optimization](https://www.techrepublic.com/article/future-of-java-programming-language-three-major-projects-on-the-horizon/)
+- [Article: Better data validation in scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76)
+- [Article: StackOverflow developer survey 2019](https://insights.stackoverflow.com/survey/2019)
+
+## March 2019
+- [Article: Tree processing with visitor pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
+- [SO: Text truncation on postgresql console](https://stackoverflow.com/questions/40760176/the-client-psql-truncates-values-in-a-column-of-type-text)
+- [Article: Final tagless not quite dead](https://github.com/ncreep/bloggable-thoughts/tree/master/finally-tagless-not-quite-dead)
+- [Article: Why does hashbrown do a double lookup on insert?](https://gankro.github.io/blah/hashbrown-insert/)
+- [Article: Performance analysis - context bound vs. implicit evidence](https://gvolpe.github.io/blog/context-bound-vs-implicit-evidence/)
+
+## February 2019
+- [Article: Postgresql and fsync](https://fosdem.org/2019/schedule/event/postgresql_fsync/)
+- [Video: Back pressure with akka streams and kafka](https://www.youtube.com/watch?v=15jAG6-T_KE)
+- [Article: Kafka Consumer patterns and gotchas](https://medium.com/@petermelias/kafka-consumer-patterns-and-gotchas-1bfc04cd643b)
+- [Article: Kafka best practices](https://blog.newrelic.com/engineering/kafka-best-practices/)
+- [Paper: Disruptor](http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf)
+- [Article: Tips for using cats in scala](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
+- [Video: Spark beyond shuffling](https://youtu.be/4xsBQYdHgn8)
+
+## January 2019
+- [Article: Keystone real-time stream processing platform - Netflix](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
+- [Article: Netflix edge load balancing](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
+- [Reference: Internals of postgresql](http://www.interdb.jp/pg/index.html)
+- [Article: Postgresql logical replication gotchas](http://pgdash.io/blog/postgres-replication-gotchas.html?p)
+- [Article: Guidelines for debugging postgres deadlocks](http://www.moioli.net/progetti/postgres-deadlocks-debugging-guidelines/)
+- [Reference: Failsafe - resilience patterns for JVM](https://github.com/jhalterman/failsafe/)
+- [Discussion: Excessive locking on hypertables](https://github.com/timescale/timescaledb/issues/902)
+- [Article: Using table inheritance and declarative partitioning](https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1)
+
 ## December 2018
 - [Article: Close encounters in Java Memory Model](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 - [Article: Debugging a Non Reproducible Crash](https://blog.bam.tech/developper-news/debugging-a-non-reproducible-crash)
@@ -19,6 +54,14 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Uncertainty propagation in data processing systems](https://blog.acolyer.org/2018/11/23/uncertainty-propagation-in-data-processing-systems/)
 - [Article: Kubernetes' first major security hole discovered](https://www.zdnet.com/article/kubernetes-first-major-security-hole-discovered/)
 - [Article: The Knight's Dialer](https://medium.com/@alexgolec/google-interview-questions-deconstructed-the-knights-dialer-impossibly-fast-edition-c288da1685b8)
+- [Article: Error handling with optics](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
+- [Article: Advanced reactive java](http://akarnokd.blogspot.com/)
+- [Article: THe complexity trap: Think before you leap](https://danielwestheide.com/blog/2018/12/07/the-complexity-trap.html)
+- [Article: Anatomy of a scala quirk](https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423)
+- [Article: Managing technical debt while maintaining developer velocity](https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423)
+- [Article: Concord: How I built a screen sharing application in two weeks](https://medium.com/@bradziolko/concord-how-i-built-a-screen-sharing-application-in-two-weeks-bef3f6a56ec4)
+- [Article: Byebye mongo, hello postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
+- [Article: Instant temporary IPython notebooks](https://lambdaops.com/ops-lessons-and-instant-temporary-ipython-jupyter-notebooks/)
 
 ## November 2018
 - [Reference: Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank)
