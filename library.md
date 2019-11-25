@@ -24,6 +24,10 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Reference: Allow for union of query data sources (druid)](https://github.com/apache/incubator-druid/issues/8122)
 - [Reference: Handling late data and watermarking (spark)](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#handling-late-data-and-watermarking)
 - [Reference: WHERE .. IN fails when used with UNION (spark)](https://issues.apache.org/jira/browse/SPARK-26078)
+- [Article: Aggregation execution in spark](https://www.waitingforcode.com/apache-spark-sql/aggregations-execution-apache-spark-sql/read)
+- [Article: State management in spark structured streaming](https://medium.com/@chandanbaranwal/state-management-in-spark-structured-streaming-aaa87b6c9d31)
+- [Article: StateStore in spark structured streaming](https://www.waitingforcode.com/apache-spark-structured-streaming/statestore-apache-spark-structured-streaming/read)
+- [Reference: RocksDB StateStore for spark](https://github.com/chermenin/spark-states/blob/master/src/main/scala/ru/chermenin/spark/sql/execution/streaming/state/RocksDbStateStoreProvider.scala)
 
 
 ## October 2019
