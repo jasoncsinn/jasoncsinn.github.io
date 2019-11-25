@@ -12,6 +12,45 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - Presentation
 - Diagram
 
+## November 2019
+- [Reference: Parallel programming concepts - C++](http://ppc.cs.aalto.fi/ch2/v0/)
+- [Reference: Comparing parallel programming implementations in Rust and C++](https://parallel-rust-cpp.github.io/)
+- [Article: Aggregations execution in Spark SQL](https://www.waitingforcode.com/apache-spark-sql/aggregations-execution-apache-spark-sql/read)
+- [Reference: Dask](https://dask.org/)
+- [Reference: Kubeflow](https://github.com/kubeflow/kubeflow)
+
+
+## October 2019
+- [Article: RabbitMQ Threading](http://moi.vonos.net/bigdata/rabbitmq-threading/)
+- [Reference: Polynote](https://github.com/polynote/polynote)
+
+## September 2019
+- [Reference: MySQL bug #2](https://bugs.mysql.com/bug.php?id=2)
+- [Article: 5 features of TypeScript 3.7](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/)
+
+## August 2019
+- [Reference: Game Programming Patterns](https://gameprogrammingpatterns.com/command.html)
+- [Article: A very deep dive into iOS Exploit chains found in the wild](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html?m=1)
+
+## July 2019
+- [Article: Request validation with Akka HTTP and Cats](https://gist.github.com/melvic-ybanez/e730fc642b179f7494621d17175e3ed1)
+- [Article: Rate limiter internals in resilience4j](https://medium.com/@storozhuk.b.m/rate-limiter-internals-in-resilience4j-48776e433b90)
+- [Video: A personal viewpoint on probabilistic programming](https://www.youtube.com/watch?v=TFXcVlKqPlM)
+- [Article: Java IO internals](https://howtodoinjava.com/java/io/how-java-io-works-internally-at-lower-level/)
+
+## June 2019
+- [Paper: Flare - Optimizing apache spark with native compilation](https://www.cs.purdue.edu/homes/rompf/papers/essertel-osdi18.pdf)
+- [Reference: PMD](https://pmd.github.io/pmd-6.15.0/)
+- [Reference: Checkstyle](https://github.com/checkstyle/checkstyle)
+- [Reference: Spotbugs](https://github.com/spotbugs/spotbugs)
+- [Reference: Scalastyle](https://github.com/scalastyle/scalastyle)
+- [Reference: Scapegoat](https://github.com/sksamuel/scapegoat)
+- [Article: Writing good code](https://dev.to/taillogs/how-to-write-a-good-piece-of-code-2gmj)
+- [Article: Yet Another Rant about Programming](https://mostbadassscientist.blogspot.com/2019/06/yarp-yet-another-rant-about-programming.html?m=1)
+- [Article: Winning the netflix prize - a summary](http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/)
+- [Presentation: Human-centric Machine Learning Infrastructure at Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure/?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks)
+
+
 ## May 2019
 - [Article: Dealing with Burnout](https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
 - [Documentation: CAP FAQ](https://www.the-paper-trail.org/page/cap-faq/)
@@ -239,7 +278,7 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Mastering Scala: Understanding map and flatMap](https://www.credera.com/blog/technology-insights/mastering-scala-understanding-map-and-flatmap/)
 - [Article: How do I get around type erasure in scala?](https://stackoverflow.com/questions/1094173/how-do-i-get-around-type-erasure-on-scala-or-why-cant-i-get-the-type-paramete?rq=1)
 
-## Undated
+## Undated (Before May 2018)
 - [Article: Apache Zeppelin vs Jupyter Notebook](https://dwhsys.com/2017/03/25/apache-zeppelin-vs-jupyter-notebook/)
 - [Book: Effective Scala](http://twitter.github.io/effectivescala/)
 - [Book: Learning Scala in Small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
