@@ -12,6 +12,28 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - Presentation
 - Diagram
 
+## May 2019
+- [Article: Dealing with Burnout](https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
+- [Documentation: CAP FAQ](https://www.the-paper-trail.org/page/cap-faq/)
+- [Article: Jepsen - The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable)
+- [Article: Jepsen - Call me Maybe (Aerospike)](https://aphyr.com/posts/324-call-me-maybe-aerospike)
+- [Documentation: Aerospike Data Dsitribution](https://www.aerospike.com/docs/architecture/data-distribution.html)
+- [Paper: Weak Consistency, A generalized theory and optimistic implementations for distributed transactions](http://pmg.csail.mit.edu/papers/adya-phd.pdf)
+- [Presentation: Google Designs, Lessons, and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+- [Paper: Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [Paper: Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+- [Paper: Paying more attention to attention - improving the performance of CNNS via attention transfer](https://arxiv.org/pdf/1706.03762.pdf)
+- [Paper: Neural Machine Translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473.pdf)
+- [Article: A brief overview of attention mechanism](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
+- [Article: Creating readable spark jobs](https://developers.soundcloud.com/blog/creating-readable-spark-jobs)
+- [Reference: False sharing](https://en.wikipedia.org/wiki/False_sharing)
+- [Discussion: JNI faster than Unsafe?](http://mail.openjdk.java.net/pipermail/hotspot-dev/2015-February/017089.html)
+- [Reference: Library for getting financial data fnllib](https://github.com/harttraveller/finlib)
+- [Article: Why I No Longer Use MVC Frameworks (State-Action-Model)](https://www.infoq.com/articles/no-more-mvc-frameworks/)
+- [Article: Performant functional programming with ZIO](http://cloudmark.github.io/A-Journey-To-Zio/)
+- [Reference: GrailSort example](https://github.com/Mrrl/GrailSort)
+- [Article: Reactor by Example](https://www.infoq.com/articles/reactor-by-example/)
+
 ## April 2019
 - [Reference: Raft](https://raft.github.io/raft.pdf)
 - [Documentation: HDFS Design](https://hadoop.apache.org/docs/current1/hdfs_design.html)
