@@ -18,25 +18,82 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Aggregations execution in Spark SQL](https://www.waitingforcode.com/apache-spark-sql/aggregations-execution-apache-spark-sql/read)
 - [Reference: Dask](https://dask.org/)
 - [Reference: Kubeflow](https://github.com/kubeflow/kubeflow)
+- [Documentation: Cassandra DelimiterAnalyzer](https://javadoc.io/static/org.apache.cassandra/cassandra-all/3.11.4/org/apache/cassandra/index/sasi/analyzer/DelimiterAnalyzer.html)
+- [Reference: Logical Increments, the PC Builder's Friend](http://www.logicalincrements.com/)
+- [Discussion: Using := for assignment (scala)](https://github.com/lampepfl/dotty/issues/7598)
+- [Reference: Allow for union of query data sources (druid)](https://github.com/apache/incubator-druid/issues/8122)
+- [Reference: Handling late data and watermarking (spark)](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#handling-late-data-and-watermarking)
+- [Reference: WHERE .. IN fails when used with UNION (spark)](https://issues.apache.org/jira/browse/SPARK-26078)
 
 
 ## October 2019
 - [Article: RabbitMQ Threading](http://moi.vonos.net/bigdata/rabbitmq-threading/)
 - [Reference: Polynote](https://github.com/polynote/polynote)
+- [Discussion: Cassandra SASI Tokenizers](http://mail-archives.apache.org/mod_mbox/cassandra-commits/201802.mbox/%3CJIRA.13139853.1519208012000.272458.1519593300329@Atlassian.JIRA%3E)
+- [Documentation: ElasticSearch-Cassandra documentation](https://elassandra.readthedocs.io/en/latest/mapping.html)
+- [Reference: JDBC Driver for elasticsearch](https://github.com/strapdata/sql4es)
+- [Reference: Spark cassandra config parameters](https://github.com/datastax/spark-cassandra-connector/blob/master/doc/reference.md)
+- [Article: Hashbrown insert - Rust Hashmap implementation](https://gankra.github.io/blah/hashbrown-insert/)
+- [Article: Javascript debouncing](https://davidwalsh.name/javascript-debounce-function)
+- [Article: A glimpse at the future of Spark 3.0](https://dzone.com/articles/a-glimpse-at-the-future-of-apache-spark-30-with-de)
+- [Reference: Vue JS Prototype for Zeppelin](https://issues.apache.org/jira/browse/ZEPPELIN-4138)
+- [Reference: FnProject - FaaS on k8s](https://github.com/fnproject/docs/blob/master/fn/operate/message-queues.md)
+- [Reference: Monitoring comparison - Prometheus vs. Influx](https://prometheus.io/docs/introduction/comparison/#prometheus-vs-influxdb)
+- [Reference: M3DB](https://www.m3db.io/)
+- [Article: 7 reasons for choosing Pulsar over Kafka](https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/)
+- [Article: Scaling HDFS at Uber](https://eng.uber.com/scaling-hdfs/)
+- [Reference: Spark and Zeppelin in IntelliJ](https://blog.jetbrains.com/scala/2019/10/16/meet-big-data-tools-spark-integration-and-zeppelin-notebooks-in-intellij-idea/)
+- [Article: Cloudera - avoid this falling knife](https://www.thestreet.com/investing/cloudera-avoid-this-falling-knife-14985312)
+- [Article: Will kubernetes sink the hadoop ship?](https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/)
+- [Article: Introducing amazon managed streaming for kafka](https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-managed-streaming-for-kafka-in-public-preview/)
 
 ## September 2019
 - [Reference: MySQL bug #2](https://bugs.mysql.com/bug.php?id=2)
 - [Article: 5 features of TypeScript 3.7](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/)
+- [Documentation: Postgresql HStore](https://www.postgresql.org/docs/11/hstore.html)
+- [Reference: Assertions in control flow analysis in TypeScript](https://github.com/microsoft/TypeScript/pull/32695)
+- [Article: How to lose messages on a RabbitMQ Cluster](https://jack-vanlightly.com/blog/2018/9/10/how-to-lose-messages-on-a-rabbitmq-cluster)
+- [Wiki: System Administrator appreciation day](https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day)
+- [Wiki: Day of the Programmer](https://en.wikipedia.org/wiki/Day_of_the_Programmer)
+- [Discussion: Retrieving TTL from Hbase record](https://community.cloudera.com/t5/Support-Questions/Get-ttl-from-HBase-record/td-p/32224)
+- [Discussion: Order of precedence for gradle properties](https://discuss.gradle.org/t/order-of-precedence-for-defining-gradle-properties/7274)
+- [SO: String interning](https://stackoverflow.com/questions/1833581/when-to-use-intern-on-string-literals)
+- [SO: When to use string interning](https://stackoverflow.com/questions/1855170/when-should-we-use-intern-method-of-string-on-string-literals)
+- [Reference: Configuring XDR for Aerospike](http://aerospike.com/docs/operations/configure/cross-datacenter/replication/#xdr-set-replication-setup)
+- [Article: Exploring window functions in spark](http://timepasstechies.com/window-functions-in-spark-sql-and-dataframe-ranking-functionsanalytic-functions-and-aggregate-function/)
+- [Discussion: XFS vs EXT4 on CentOS7](https://www.reddit.com/r/linux/comments/2b4eq9/apparently_centos_7_uses_xfs_as_default_file/)
+- [Presentation: HDFS on Kubernetes w/ Kimoon Kim](https://www.slideshare.net/databricks/hdfs-on-kuberneteslessons-learned-with-kimoon-kim)
+- [Presentation: HDFS on Kubernetes w/ Databricks](https://databricks.com/session/hdfs-on-kubernetes-lessons-learned)
+- [Article: Getting started with HDFS on Kubernetes](https://blog.hasura.io/getting-started-with-hdfs-on-kubernetes-a75325d4178c/)
+- [Reference: Youtube's DB Procella](https://tech.marksblogg.com/youtube-database-procella.html)
+- [Paper: Unifying serving and analytical data at Youtube](https://ai.google/research/pubs/pub48388/)
+- [Article: Famous laws of software development](https://www.timsommer.be/famous-laws-of-software-development/)
+- [Reference: callback hell](http://callbackhell.com/)
 
 ## August 2019
 - [Reference: Game Programming Patterns](https://gameprogrammingpatterns.com/command.html)
 - [Article: A very deep dive into iOS Exploit chains found in the wild](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html?m=1)
+- [Article: What color is your function? - on async interfaces](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Reference: Cats effect concurrency basics](https://typelevel.org/cats-effect/concurrency/basics.html)
+- [Article: Scheduling notebooks at netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
+- [Reference: Embedded Kafka](https://github.com/embeddedkafka/embedded-kafka)
+- [Reference: YarnShuffleService](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/yarn/spark-yarn-YarnShuffleService.html)
+- [Article: Eliminating toil (google SRE)](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/)
+- [Reference: Optimized analytics package for spark (intel)](https://github.com/Intel-bigdata/OAP)
+- [Article: Eliminating large JVM GC pauses caused by background IO](https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic)
+- [Discussion: Webpack crashers when trying to print donation message](https://github.com/webpack/webpack-cli/issues/962)
+- [Discussion: Event-stream dependency attack steals wallets from users of copay](https://github.com/bitpay/copay/issues/9346)
 
 ## July 2019
 - [Article: Request validation with Akka HTTP and Cats](https://gist.github.com/melvic-ybanez/e730fc642b179f7494621d17175e3ed1)
 - [Article: Rate limiter internals in resilience4j](https://medium.com/@storozhuk.b.m/rate-limiter-internals-in-resilience4j-48776e433b90)
 - [Video: A personal viewpoint on probabilistic programming](https://www.youtube.com/watch?v=TFXcVlKqPlM)
 - [Article: Java IO internals](https://howtodoinjava.com/java/io/how-java-io-works-internally-at-lower-level/)
+- [Article: Configuring dead letter queues with RabbitMQ](https://zoltanaltfatter.com/2016/09/06/dead-letter-queue-configuration-rabbitmq/)
+- [Reference: Jupyter magic for working with remote spark clusters](https://github.com/jupyter-incubator/sparkmagic)
+- [Reference: Java zeppelin interpreter](https://issues.apache.org/jira/browse/ZEPPELIN-3653)
+- [Reference: Distribution strategies in Tensorflow](https://www.tensorflow.org/guide/distribute_strategy)
+- [Article: Perils of constructors in Rust](https://matklad.github.io/2019/07/16/perils-of-constructors.html)
 
 ## June 2019
 - [Paper: Flare - Optimizing apache spark with native compilation](https://www.cs.purdue.edu/homes/rompf/papers/essertel-osdi18.pdf)
@@ -49,6 +106,11 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Yet Another Rant about Programming](https://mostbadassscientist.blogspot.com/2019/06/yarp-yet-another-rant-about-programming.html?m=1)
 - [Article: Winning the netflix prize - a summary](http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/)
 - [Presentation: Human-centric Machine Learning Infrastructure at Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure/?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks)
+- [Reference: Papermill](https://github.com/nteract/papermill)
+- [Discussion: Async-await syntax in rust](https://github.com/rust-lang/rust/issues/62149)
+- [Article: parseInt mysteries in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
+- [Reference: Accelerate python functions with Numba](https://numba.pydata.org/)
+- [Article: Functional brainfuck](https://github.com/Dash-Lambda/Functional-Brainf-ck/tree/master/src/main/scala/interpreters)
 
 
 ## May 2019
@@ -72,6 +134,8 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Performant functional programming with ZIO](http://cloudmark.github.io/A-Journey-To-Zio/)
 - [Reference: GrailSort example](https://github.com/Mrrl/GrailSort)
 - [Article: Reactor by Example](https://www.infoq.com/articles/reactor-by-example/)
+- [Reference: Stacksort](https://gkoberger.github.io/stacksort)
+- [Article: Stackless function composition](https://mpilquist.github.io/blog/2017/03/11/stackless-function-composition/)
 
 ## April 2019
 - [Reference: Raft](https://raft.github.io/raft.pdf)
@@ -81,6 +145,7 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: BERT Pretraining optimization](https://www.techrepublic.com/article/future-of-java-programming-language-three-major-projects-on-the-horizon/)
 - [Article: Better data validation in scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76)
 - [Article: StackOverflow developer survey 2019](https://insights.stackoverflow.com/survey/2019)
+- [SO: How does spark structured streaming handle backpressure?](https://stackoverflow.com/questions/44871621/how-spark-structured-streaming-handles-backpressure)
 
 ## March 2019
 - [Article: Tree processing with visitor pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
@@ -88,6 +153,10 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: Final tagless not quite dead](https://github.com/ncreep/bloggable-thoughts/tree/master/finally-tagless-not-quite-dead)
 - [Article: Why does hashbrown do a double lookup on insert?](https://gankro.github.io/blah/hashbrown-insert/)
 - [Article: Performance analysis - context bound vs. implicit evidence](https://gvolpe.github.io/blog/context-bound-vs-implicit-evidence/)
+- [Article: Assigning multiple IPS to 1 node](https://serverfault.com/questions/429839/assign-multiple-ips-to-1-entry-in-hosts-file/429851)
+- [Reference: Alibaba dragonwell JDK](https://github.com/alibaba/dragonwell8/wiki/Alibaba-Dragonwell8-User-Guide)
+- [Reference: Frameless](https://github.com/typelevel/frameless)
+- [Reference: Source code improvements library for scala](https://github.com/lihaoyi/sourcecode)
 
 ## February 2019
 - [Article: Postgresql and fsync](https://fosdem.org/2019/schedule/event/postgresql_fsync/)
