@@ -28,6 +28,12 @@ Sorry, you will have to use CTRL+F for now.. haven't bothered to set up somethin
 - [Article: State management in spark structured streaming](https://medium.com/@chandanbaranwal/state-management-in-spark-structured-streaming-aaa87b6c9d31)
 - [Article: StateStore in spark structured streaming](https://www.waitingforcode.com/apache-spark-structured-streaming/statestore-apache-spark-structured-streaming/read)
 - [Reference: RocksDB StateStore for spark](https://github.com/chermenin/spark-states/blob/master/src/main/scala/ru/chermenin/spark/sql/execution/streaming/state/RocksDbStateStoreProvider.scala)
+- [Article: Benchmarking streaming computation engines at Yahoo!](https://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
+- [Article: Uber Engineering Blog - Introducing AthenaX](https://eng.uber.com/athenax/)
+- [Article: Why distributed real-time stream processing must have a persistent local/embedded store like RocksDB](http://why-not-learn-something.blogspot.com/2016/12/why-and-when-distributed-stream.html)
+- [Reference: MicroK8s](https://microk8s.io/#get-started)
+- [Reference: Embedding projector - visualization of high-dimensional data](http://projector.tensorflow.org/)
+- [Article: Lessons learned building an ML trading system that turned $5k into $200k](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 
 
 ## October 2019
